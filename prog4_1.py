@@ -1,3 +1,7 @@
+# By: Megan Respicio
+# Date: December 2017
+# Github: github.com/mrespicio
+
 import sys
 filename = sys.argv[-1]
 f = open(filename, 'r')
