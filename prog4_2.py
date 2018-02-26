@@ -1,3 +1,7 @@
+# By: Megan Respicio
+# Date: December 2017
+# Github: github.com/mrespicio
+
 import sys
 import StackMachine
 filename = sys.argv[-1]
