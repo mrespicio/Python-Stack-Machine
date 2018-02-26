@@ -1,5 +1,5 @@
 # Python-Stack-Machine
-Date: December 2018 </br>
+<b>Date:</b> December 2018 </br>
 Assignment for programming languages class. Designed to familiarize myself with python and implementation of a stack machine. Consists of 3 parts. </br>
 
 <b>Prog4_1:</b>Takes a single command line argument, which is the name of a text file. Program reads file and tokenizes each word and prints them separated by a comma. </br>
