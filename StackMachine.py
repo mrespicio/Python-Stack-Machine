@@ -1,3 +1,7 @@
+# By: Megan Respicio
+# Date: December 2017
+# Github: github.com/mrespicio
+
 class StackMachine:
     def __init__(self):
         self.__data=[]
