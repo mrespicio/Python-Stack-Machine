@@ -1,6 +1,5 @@
 import sys
 import StackMachine
-print("Assignment #4-2, Megan Respicio, meganrespicio@hotmail.com")
 filename = sys.argv[-1]
 f = open(filename, 'r')
 lines = f.readlines()
